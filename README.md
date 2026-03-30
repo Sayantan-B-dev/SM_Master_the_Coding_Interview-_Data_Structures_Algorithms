@@ -31,10 +31,10 @@ in both of the `_tree_for_the_entire_folder.py` and `_stats_to_get_total_filecou
 ```
 {open all folder drop down in your udemy course, copy the div, paste it in index.html}
 
-`index.html` -> 
-`extract_data_from_input_html.py` -> 
-`output.html ` -> 
-`create_complete_folder_and_file_structure.py ` -> 
-`bulk_rename_to_remove_spaces.py`
+`__index.html` -> 
+`_extract_data_from_input_html.py` -> 
+`._output.html ` -> 
+`_create_complete_folder_and_file_structure.py ` -> 
+`_bulk_rename_to_remove_spaces.py`
 ```
 --- 
