@@ -1,0 +1,291 @@
+Section 1: Introduction
+  1. How To Succeed In This Course
+  2. Join Our Online Classroom!
+  3. Exercise: Meet Your Classmates & Instructor
+  4. ZTM Resources
+  5. Monthly Coding Challenges, Free Resources and Guides
+Section 2: Getting More Interviews
+  6. Section Overview
+  7. Resume
+  8. Exercise: Resume Walkthrough
+  9. Resources: Resume Templates
+  10. Resume Review
+  11. What If I Don't Have Enough Experience?
+  12. Optional Exercise: Github Master
+  13. Optional: Exercise: Github README
+  14. LinkedIn
+  15. Exercise: LinkedIn Endorsements
+  16. Portfolio
+  17. Resources: Free Portfolio Templates
+  18. Quick Note: Upcoming Video
+  19. Portfolio with A.I.
+  20. Email
+  21. Resources: Email
+  22. Where To Find Jobs?
+  23. Resources: Where To Find Jobs?
+  24. When Should You Start Applying?
+  25. Section Summary
+  26. Monthly Industry Updates
+Section 3: Big O
+  27. Python, Java, C/C++, C#, Go, Swift, Kotlin, TypeScript, Scala, Perl, Rust, PHP
+  28. Section Overview
+  29. Big O Cheatsheet
+  30. Setting Up Your Environment
+  31. IMPORTANT: Repl Code
+  32. What Is Good Code?
+  33. Big O and Scalability
+  34. O(n)
+  35. O(1)
+  36. Exercise: Big O Calculation
+  37. Solution: Big O Calculation
+  38. Exercise: Big O Calculation 2
+  39. Solution: Big O Calculation 2
+  40. Simplifying Big O
+  41. Big O Rule 1
+  42. Big O Rule 2
+  43. Big O Rule 3
+  44. O(n^2)
+  45. Big O Rule 4
+  46. Big O Cheat Sheet
+  47. What Does This All Mean?
+  48. O(n!)
+  49. 3 Pillars Of Programming
+  50. Space Complexity
+  51. Exercise: Space Complexity
+  52. Exercise: Twitter
+  53. Optional: Javascript Loops
+  54. Section Summary
+Section 4: How To Solve Coding Problems
+  55. Section Overview
+  56. What Are Companies Looking For?
+  57. What We Need For Coding Interviews
+  58. Exercise: Google Interview
+  59. Exercise: Interview Question
+  60. Exercise: Interview Question 2
+  61. Review Google Interview
+  62. Optional Exercise: Google Interview On Your Own
+  63. Section Summary
+Section 5: Data Structures: Introduction
+  64. Section Overview
+  65. What Is A Data Structure?
+  66. How Computers Store Data
+  67. Data Structures In Different Languages
+  68. Operations On Data Structures
+Section 6: Data Structures: Arrays
+  69. Arrays Introduction
+  70. Static vs Dynamic Arrays
+  71. Quick Note: Upcoming Video
+  72. Optional: Classes In Javascript
+  73. Implementing An Array
+  74. Strings and Arrays
+  75. Exercise: Reverse A String
+  76. Solution: Reverse A String
+  77. Exercise: Merge Sorted Arrays
+  78. Solution: Merge Sorted Arrays
+  79. Interview Questions: Arrays
+  80. Arrays Review
+Section 7: Data Structures: Hash Tables
+  81. Hash Tables Introduction
+  82. Hash Function
+  83. Hash Collisions
+  84. Hash Tables In Different Languages
+  85. Exercise: Implement A Hash Table
+  86. Solution: Implement A Hash Table
+  87. keys()
+  88. Extra: keys() Without Collision
+  89. Hash Tables VS Arrays
+  90. Exercise: First Recurring Character
+  91. Solution: First Recurring Character
+  92. Interesting Tidbit: Python Dictionaries
+  93. Hash Tables Review
+Section 8: Data Structures: Linked Lists
+  94. Linked Lists Introduction
+  95. What Is A Linked List?
+  96. Exercise: Imposter Syndrome
+  97. Exercise: Why Linked Lists?
+  98. Solution: Why Linked Lists?
+  99. What Is A Pointer?
+  100. Our First Linked List
+  101. Solution: append()
+  102. Solution: prepend()
+  103. Node Class
+  104. insert()
+  105. Quick Note: Upcoming Video
+  106. Solution: insert()
+  107. Solution: remove()
+  108. Doubly Linked Lists
+  109. Exercise: Doubly Linked Lists
+  110. Solution: Doubly Linked Lists
+  111. Singly VS Doubly Linked Lists
+  112. Exercise: reverse()
+  113. Solution: reverse()
+  114. Linked Lists Review
+Section 9: Data Structures: Stacks + Queues
+  115. Stacks + Queues Introduction
+  116. Stacks
+  117. Queues
+  118. Exercise: Stacks VS Queues
+  119. Solution: Stacks VS Queues
+  120. Quick Note: Upcoming Video
+  121. Optional: How Javascript Works
+  122. Exercise: Stack Implementation (Linked Lists)
+  123. Solution: Stack Implementation (Linked Lists)
+  124. Exercise: Stack Implementation (Array)
+  125. Solution: Stack Implementation (Array)
+  126. Exercise: Queue Implementation
+  127. Solution: Queue Implementation
+  128. Queues Using Stacks
+  129. Stacks + Queues Review
+Section 10: Data Structures: Trees
+  130. Trees Introduction
+  131. Binary Trees
+  132. O(log n)
+  133. Binary Search Trees
+  134. Balanced VS Unbalanced BST
+  135. BST Pros and Cons
+  136. Exercise: Binary Search Tree
+  137. Solution: insert()
+  138. Solution: lookup()
+  139. Extra Exercise: remove()
+  140. Solution: remove()
+  141. AVL Trees + Red Black Trees
+  142. Resources: AVL Trees + Red Black Trees
+  143. Binary Heaps
+  144. Quick Note on Heaps
+  145. Priority Queue
+  146. Trie
+  147. Tree Review
+Section 11: Data Structures: Graphs
+  148. Graphs Introduction
+  149. Types Of Graphs
+  150. Exercise: Guess The Graph
+  151. Graph Data
+  152. Exercise: Graph Implementation
+  153. Solution: Graph Implementation
+  154. Graphs Review
+  155. Data Structures Review
+  156. What Else Is Coming Up?
+Section 12: Algorithms: Recursion
+  157. Introduction to Algorithms
+  158. Recursion Introduction
+  159. Stack Overflow
+  160. Anatomy Of Recursion
+  161. Exercise: Factorial
+  162. Solution: Factorial
+  163. Exercise: Fibonacci
+  164. Solution: Fibonacci
+  165. Recursive VS Iterative
+  166. When To Use Recursion
+  167. Exercise: Reverse String With Recursion
+  168. Recursion Review
+Section 13: Algorithms: Sorting
+  169. Sorting Introduction
+  170. The Issue With sort()
+  171. Sorting Algorithms
+  172. Bubble Sort
+  173. Exercise: Bubble Sort
+  174. Solution: Bubble Sort
+  175. Selection Sort
+  176. Exercise: Selection Sort
+  177. Solution: Selection Sort
+  178. Dancing Algorithms
+  179. Insertion Sort
+  180. Exercise: Insertion Sort
+  181. Solution: Insertion Sort
+  182. Merge Sort and O(n log n)
+  183. Exercise: Merge Sort
+  184. Solution: Merge Sort
+  185. Stable VS Unstable Algorithms
+  186. Quick Sort
+  187. Optional Exercise: Quick Sort
+  188. Which Sort Is Best?
+  189. Resources: Heap Sort
+  190. Radix Sort + Counting Sort
+  191. Resources: Radix Sort + Counting Sort
+  192. Exercise: Sorting Interview
+  193. Solution: Sorting Interview
+  194. Sorting In Your Language
+  195. Sorting Review
+Section 14: Algorithms: Searching + BFS + DFS
+  196. Searching + Traversal Introduction
+  197. Linear Search
+  198. Binary Search
+  199. Graph + Tree Traversals
+  200. BFS Introduction
+  201. DFS Introduction
+  202. BFS vs DFS
+  203. Resources: BFS vs DFS
+  204. Exercise: BFS vs DFS
+  205. Solution: BFS vs DFS
+  206. breadthFirstSearch()
+  207. breadthFirstSearchRecursive()
+  208. PreOrder, InOrder, PostOrder
+  209. depthFirstSearch()
+  210. Optional Exercise: Validate A BST
+  211. Graph Traversals
+  212. BFS in Graphs
+  213. DFS in Graphs
+  214. Dijkstra + Bellman-Ford Algorithms
+  215. Searching + Traversal Review
+Section 15: Algorithms: Dynamic Programming
+  216. Dynamic Programming Introduction
+  217. Memoization 1
+  218. Memoization 2
+  219. Fibonacci and Dynamic Programming
+  220. Dynamic Programming
+  221. Implementing Dynamic Programming
+  222. Interview Questions: Dynamic Programming
+  223. Dynamic Programming Review
+Section 16: Non Technical Interviews
+  224. Section Overview
+  225. During The Interview
+  226. Exercise: Hero Stories
+  227. Tell Me About Yourself
+  228. Exercise: Your Pitch
+  229. Why Us?
+  230. Tell Me About A Problem You Have Solved
+  231. Exercise: Past Projects
+  232. What Is Your Biggest Weakness
+  233. Exercise: Your Biggest Weakness
+  234. Any Questions For Us?
+  235. Resources: Questions To Ask A Company
+  236. Secret Weapon
+  237. After The Interview
+  238. Section Summary
+Section 17: Offer + Negotiation
+  239. Section Overview
+  240. Handling Rejection
+  241. Negotiation 101
+  242. Handling An Offer
+  243. Handling Multiple Offers
+  244. Getting A Raise
+  245. Exercise: Negotiation Master
+  246. Section Summary
+Section 18: Thank You
+  247. Become an Alumni
+  248. Thank You.
+  249. What You Can Do Now
+Section 19: Extras: Google, Amazon, Facebook Interview Questions
+  250. Coding Problems
+  251. Top Interview Questions
+  252. Amazon Interview Questions
+  253. Facebook Interview Questions
+  254. Google Interview Questions
+  255. Domain Specific Questions
+Section 20: Contributing To Open Source To Gain Experience
+  256. Contributing To Open Source
+  257. Contributing To Open Source 2
+  258. Exercise: Contribute To Open Source
+Section 21: Extra Bits
+  259. Learning Guideline
+  260. Quick Note: Upcoming Videos
+  261. From JTS: Learn to Learn
+  262. From JTS: Start With Why
+  263. Coding Challenges
+  264. How To Use Leetcode
+  265. An Old Video for You
+  266. AMA - 100,000 Students!!
+  Quiz 1: Course Review
+  Coding Exercise 1: The Final Challenge
+Section 22: BONUS SECTION
+  267. Special Bonus Lecture

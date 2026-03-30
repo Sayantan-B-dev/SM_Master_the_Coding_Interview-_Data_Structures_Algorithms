@@ -1,0 +1,303 @@
+.
+├── .gitattributes
+├── .gitignore
+├── README.md
+├── Section_001 - Introduction
+│   ├── 001 - How To Succeed In This Course.md
+│   ├── 002 - Join Our Online Classroom!.md
+│   ├── 003 - Exercise Meet Your Classmates & Instructor.md
+│   ├── 004 - ZTM Resources.md
+│   └── 005 - Monthly Coding Challenges, Free Resources and Guides.md
+├── Section_002 - Getting More Interviews
+│   ├── 006 - Section Overview.md
+│   ├── 007 - Resume.md
+│   ├── 008 - Exercise Resume Walkthrough.md
+│   ├── 009 - Resources Resume Templates.md
+│   ├── 010 - Resume Review.md
+│   ├── 011 - What If I Don't Have Enough Experience.md
+│   ├── 012 - Optional Exercise Github Master.md
+│   ├── 013 - Optional Exercise Github README.md
+│   ├── 014 - LinkedIn.md
+│   ├── 015 - Exercise LinkedIn Endorsements.md
+│   ├── 016 - Portfolio.md
+│   ├── 017 - Resources Free Portfolio Templates.md
+│   ├── 018 - Quick Note Upcoming Video.md
+│   ├── 019 - Portfolio with A.I..md
+│   ├── 020 - Email.md
+│   ├── 021 - Resources Email.md
+│   ├── 022 - Where To Find Jobs.md
+│   ├── 023 - Resources Where To Find Jobs.md
+│   ├── 024 - When Should You Start Applying.md
+│   ├── 025 - Section Summary.md
+│   └── 026 - Monthly Industry Updates.md
+├── Section_003 - Big O
+│   ├── 027 - Python, Java, CC++, C#, Go, Swift, Kotlin, TypeScript, Scala, Perl, Rust, PHP.md
+│   ├── 028 - Section Overview.md
+│   ├── 029 - Big O Cheatsheet.md
+│   ├── 030 - Setting Up Your Environment.md
+│   ├── 031 - IMPORTANT Repl Code.md
+│   ├── 032 - What Is Good Code.md
+│   ├── 033 - Big O and Scalability.md
+│   ├── 034 - O(n).md
+│   ├── 035 - O(1).md
+│   ├── 036 - Exercise Big O Calculation.md
+│   ├── 037 - Solution Big O Calculation.md
+│   ├── 038 - Exercise Big O Calculation 2.md
+│   ├── 039 - Solution Big O Calculation 2.md
+│   ├── 040 - Simplifying Big O.md
+│   ├── 041 - Big O Rule 1.md
+│   ├── 042 - Big O Rule 2.md
+│   ├── 043 - Big O Rule 3.md
+│   ├── 044 - O(n^2).md
+│   ├── 045 - Big O Rule 4.md
+│   ├── 046 - Big O Cheat Sheet.md
+│   ├── 047 - What Does This All Mean.md
+│   ├── 048 - O(n!).md
+│   ├── 049 - 3 Pillars Of Programming.md
+│   ├── 050 - Space Complexity.md
+│   ├── 051 - Exercise Space Complexity.md
+│   ├── 052 - Exercise Twitter.md
+│   ├── 053 - Optional Javascript Loops.md
+│   └── 054 - Section Summary.md
+├── Section_004 - How To Solve Coding Problems
+│   ├── 055 - Section Overview.md
+│   ├── 056 - What Are Companies Looking For.md
+│   ├── 057 - What We Need For Coding Interviews.md
+│   ├── 058 - Exercise Google Interview.md
+│   ├── 059 - Exercise Interview Question.md
+│   ├── 060 - Exercise Interview Question 2.md
+│   ├── 061 - Review Google Interview.md
+│   ├── 062 - Optional Exercise Google Interview On Your Own.md
+│   └── 063 - Section Summary.md
+├── Section_005 - Data Structures Introduction
+│   ├── 064 - Section Overview.md
+│   ├── 065 - What Is A Data Structure.md
+│   ├── 066 - How Computers Store Data.md
+│   ├── 067 - Data Structures In Different Languages.md
+│   └── 068 - Operations On Data Structures.md
+├── Section_006 - Data Structures Arrays
+│   ├── 069 - Arrays Introduction.md
+│   ├── 070 - Static vs Dynamic Arrays.md
+│   ├── 071 - Quick Note Upcoming Video.md
+│   ├── 072 - Optional Classes In Javascript.md
+│   ├── 073 - Implementing An Array.md
+│   ├── 074 - Strings and Arrays.md
+│   ├── 075 - Exercise Reverse A String.md
+│   ├── 076 - Solution Reverse A String.md
+│   ├── 077 - Exercise Merge Sorted Arrays.md
+│   ├── 078 - Solution Merge Sorted Arrays.md
+│   ├── 079 - Interview Questions Arrays.md
+│   └── 080 - Arrays Review.md
+├── Section_007 - Data Structures Hash Tables
+│   ├── 081 - Hash Tables Introduction.md
+│   ├── 082 - Hash Function.md
+│   ├── 083 - Hash Collisions.md
+│   ├── 084 - Hash Tables In Different Languages.md
+│   ├── 085 - Exercise Implement A Hash Table.md
+│   ├── 086 - Solution Implement A Hash Table.md
+│   ├── 087 - keys().md
+│   ├── 088 - Extra keys() Without Collision.md
+│   ├── 089 - Hash Tables VS Arrays.md
+│   ├── 090 - Exercise First Recurring Character.md
+│   ├── 091 - Solution First Recurring Character.md
+│   ├── 092 - Interesting Tidbit Python Dictionaries.md
+│   └── 093 - Hash Tables Review.md
+├── Section_008 - Data Structures Linked Lists
+│   ├── 094 - Linked Lists Introduction.md
+│   ├── 095 - What Is A Linked List.md
+│   ├── 096 - Exercise Imposter Syndrome.md
+│   ├── 097 - Exercise Why Linked Lists.md
+│   ├── 098 - Solution Why Linked Lists.md
+│   ├── 099 - What Is A Pointer.md
+│   ├── 100 - Our First Linked List.md
+│   ├── 101 - Solution append().md
+│   ├── 102 - Solution prepend().md
+│   ├── 103 - Node Class.md
+│   ├── 104 - insert().md
+│   ├── 105 - Quick Note Upcoming Video.md
+│   ├── 106 - Solution insert().md
+│   ├── 107 - Solution remove().md
+│   ├── 108 - Doubly Linked Lists.md
+│   ├── 109 - Exercise Doubly Linked Lists.md
+│   ├── 110 - Solution Doubly Linked Lists.md
+│   ├── 111 - Singly VS Doubly Linked Lists.md
+│   ├── 112 - Exercise reverse().md
+│   ├── 113 - Solution reverse().md
+│   └── 114 - Linked Lists Review.md
+├── Section_009 - Data Structures Stacks + Queues
+│   ├── 115 - Stacks + Queues Introduction.md
+│   ├── 116 - Stacks.md
+│   ├── 117 - Queues.md
+│   ├── 118 - Exercise Stacks VS Queues.md
+│   ├── 119 - Solution Stacks VS Queues.md
+│   ├── 120 - Quick Note Upcoming Video.md
+│   ├── 121 - Optional How Javascript Works.md
+│   ├── 122 - Exercise Stack Implementation (Linked Lists).md
+│   ├── 123 - Solution Stack Implementation (Linked Lists).md
+│   ├── 124 - Exercise Stack Implementation (Array).md
+│   ├── 125 - Solution Stack Implementation (Array).md
+│   ├── 126 - Exercise Queue Implementation.md
+│   ├── 127 - Solution Queue Implementation.md
+│   ├── 128 - Queues Using Stacks.md
+│   └── 129 - Stacks + Queues Review.md
+├── Section_010 - Data Structures Trees
+│   ├── 130 - Trees Introduction.md
+│   ├── 131 - Binary Trees.md
+│   ├── 132 - O(log n).md
+│   ├── 133 - Binary Search Trees.md
+│   ├── 134 - Balanced VS Unbalanced BST.md
+│   ├── 135 - BST Pros and Cons.md
+│   ├── 136 - Exercise Binary Search Tree.md
+│   ├── 137 - Solution insert().md
+│   ├── 138 - Solution lookup().md
+│   ├── 139 - Extra Exercise remove().md
+│   ├── 140 - Solution remove().md
+│   ├── 141 - AVL Trees + Red Black Trees.md
+│   ├── 142 - Resources AVL Trees + Red Black Trees.md
+│   ├── 143 - Binary Heaps.md
+│   ├── 144 - Quick Note on Heaps.md
+│   ├── 145 - Priority Queue.md
+│   ├── 146 - Trie.md
+│   └── 147 - Tree Review.md
+├── Section_011 - Data Structures Graphs
+│   ├── 148 - Graphs Introduction.md
+│   ├── 149 - Types Of Graphs.md
+│   ├── 150 - Exercise Guess The Graph.md
+│   ├── 151 - Graph Data.md
+│   ├── 152 - Exercise Graph Implementation.md
+│   ├── 153 - Solution Graph Implementation.md
+│   ├── 154 - Graphs Review.md
+│   ├── 155 - Data Structures Review.md
+│   └── 156 - What Else Is Coming Up.md
+├── Section_012 - Algorithms Recursion
+│   ├── 157 - Introduction to Algorithms.md
+│   ├── 158 - Recursion Introduction.md
+│   ├── 159 - Stack Overflow.md
+│   ├── 160 - Anatomy Of Recursion.md
+│   ├── 161 - Exercise Factorial.md
+│   ├── 162 - Solution Factorial.md
+│   ├── 163 - Exercise Fibonacci.md
+│   ├── 164 - Solution Fibonacci.md
+│   ├── 165 - Recursive VS Iterative.md
+│   ├── 166 - When To Use Recursion.md
+│   ├── 167 - Exercise Reverse String With Recursion.md
+│   └── 168 - Recursion Review.md
+├── Section_013 - Algorithms Sorting
+│   ├── 169 - Sorting Introduction.md
+│   ├── 170 - The Issue With sort().md
+│   ├── 171 - Sorting Algorithms.md
+│   ├── 172 - Bubble Sort.md
+│   ├── 173 - Exercise Bubble Sort.md
+│   ├── 174 - Solution Bubble Sort.md
+│   ├── 175 - Selection Sort.md
+│   ├── 176 - Exercise Selection Sort.md
+│   ├── 177 - Solution Selection Sort.md
+│   ├── 178 - Dancing Algorithms.md
+│   ├── 179 - Insertion Sort.md
+│   ├── 180 - Exercise Insertion Sort.md
+│   ├── 181 - Solution Insertion Sort.md
+│   ├── 182 - Merge Sort and O(n log n).md
+│   ├── 183 - Exercise Merge Sort.md
+│   ├── 184 - Solution Merge Sort.md
+│   ├── 185 - Stable VS Unstable Algorithms.md
+│   ├── 186 - Quick Sort.md
+│   ├── 187 - Optional Exercise Quick Sort.md
+│   ├── 188 - Which Sort Is Best.md
+│   ├── 189 - Resources Heap Sort.md
+│   ├── 190 - Radix Sort + Counting Sort.md
+│   ├── 191 - Resources Radix Sort + Counting Sort.md
+│   ├── 192 - Exercise Sorting Interview.md
+│   ├── 193 - Solution Sorting Interview.md
+│   ├── 194 - Sorting In Your Language.md
+│   └── 195 - Sorting Review.md
+├── Section_014 - Algorithms Searching + BFS + DFS
+│   ├── 196 - Searching + Traversal Introduction.md
+│   ├── 197 - Linear Search.md
+│   ├── 198 - Binary Search.md
+│   ├── 199 - Graph + Tree Traversals.md
+│   ├── 200 - BFS Introduction.md
+│   ├── 201 - DFS Introduction.md
+│   ├── 202 - BFS vs DFS.md
+│   ├── 203 - Resources BFS vs DFS.md
+│   ├── 204 - Exercise BFS vs DFS.md
+│   ├── 205 - Solution BFS vs DFS.md
+│   ├── 206 - breadthFirstSearch().md
+│   ├── 207 - breadthFirstSearchRecursive().md
+│   ├── 208 - PreOrder, InOrder, PostOrder.md
+│   ├── 209 - depthFirstSearch().md
+│   ├── 210 - Optional Exercise Validate A BST.md
+│   ├── 211 - Graph Traversals.md
+│   ├── 212 - BFS in Graphs.md
+│   ├── 213 - DFS in Graphs.md
+│   ├── 214 - Dijkstra + Bellman-Ford Algorithms.md
+│   └── 215 - Searching + Traversal Review.md
+├── Section_015 - Algorithms Dynamic Programming
+│   ├── 216 - Dynamic Programming Introduction.md
+│   ├── 217 - Memoization 1.md
+│   ├── 218 - Memoization 2.md
+│   ├── 219 - Fibonacci and Dynamic Programming.md
+│   ├── 220 - Dynamic Programming.md
+│   ├── 221 - Implementing Dynamic Programming.md
+│   ├── 222 - Interview Questions Dynamic Programming.md
+│   └── 223 - Dynamic Programming Review.md
+├── Section_016 - Non Technical Interviews
+│   ├── 224 - Section Overview.md
+│   ├── 225 - During The Interview.md
+│   ├── 226 - Exercise Hero Stories.md
+│   ├── 227 - Tell Me About Yourself.md
+│   ├── 228 - Exercise Your Pitch.md
+│   ├── 229 - Why Us.md
+│   ├── 230 - Tell Me About A Problem You Have Solved.md
+│   ├── 231 - Exercise Past Projects.md
+│   ├── 232 - What Is Your Biggest Weakness.md
+│   ├── 233 - Exercise Your Biggest Weakness.md
+│   ├── 234 - Any Questions For Us.md
+│   ├── 235 - Resources Questions To Ask A Company.md
+│   ├── 236 - Secret Weapon.md
+│   ├── 237 - After The Interview.md
+│   └── 238 - Section Summary.md
+├── Section_017 - Offer + Negotiation
+│   ├── 239 - Section Overview.md
+│   ├── 240 - Handling Rejection.md
+│   ├── 241 - Negotiation 101.md
+│   ├── 242 - Handling An Offer.md
+│   ├── 243 - Handling Multiple Offers.md
+│   ├── 244 - Getting A Raise.md
+│   ├── 245 - Exercise Negotiation Master.md
+│   └── 246 - Section Summary.md
+├── Section_018 - Thank You
+│   ├── 247 - Become an Alumni.md
+│   ├── 248 - Thank You..md
+│   └── 249 - What You Can Do Now.md
+├── Section_019 - Extras Google, Amazon, Facebook Interview Questions
+│   ├── 250 - Coding Problems.md
+│   ├── 251 - Top Interview Questions.md
+│   ├── 252 - Amazon Interview Questions.md
+│   ├── 253 - Facebook Interview Questions.md
+│   ├── 254 - Google Interview Questions.md
+│   └── 255 - Domain Specific Questions.md
+├── Section_020 - Contributing To Open Source To Gain Experience
+│   ├── 256 - Contributing To Open Source.md
+│   ├── 257 - Contributing To Open Source 2.md
+│   └── 258 - Exercise Contribute To Open Source.md
+├── Section_021 - Extra Bits
+│   ├── 259 - Learning Guideline.md
+│   ├── 260 - Quick Note Upcoming Videos.md
+│   ├── 261 - From JTS Learn to Learn.md
+│   ├── 262 - From JTS Start With Why.md
+│   ├── 263 - Coding Challenges.md
+│   ├── 264 - How To Use Leetcode.md
+│   ├── 265 - An Old Video for You.md
+│   ├── 266 - AMA - 100,000 Students!!.md
+│   ├── 267 - Quiz 1 Course Review.md
+│   └── 268 - Coding Exercise 1 The Final Challenge.md
+├── Section_022 - BONUS SECTION
+│   └── 267 - Special Bonus Lecture.md
+├── _bulk_rename_to_remove_spaces.py
+├── _create_complete_folder_and_file_structure.py
+├── _extract_data_from_input_html.py
+├── _stats_to_get_total_filecount_and_total_filesize.py
+├── _tree_for_the_entire_folder.py
+├── folder_tree.txt
+├── input.html
+└── output.txt
