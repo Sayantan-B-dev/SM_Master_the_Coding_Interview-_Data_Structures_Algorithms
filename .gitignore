@@ -100,3 +100,21 @@ htmlcov/
 .tmp/
 temp/
 tmp/
+
+# =========================
+# JAVASCRIPT / NODE.JS
+# =========================
+node_modules/
+jspm_packages/
+.npm/
+.eslintcache
+.stylelintcache
+.node_repl_history
+*~
+*.js.map
+*.js[x]
+*.ts[x]
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*

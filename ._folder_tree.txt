@@ -1,4 +1,6 @@
 .
+├── ._folder_tree.txt
+├── ._output.txt
 ├── .gitattributes
 ├── .gitignore
 ├── README.md
@@ -293,11 +295,9 @@
 │   └── 268 - Coding Exercise 1 The Final Challenge.md
 ├── Section_022 - BONUS SECTION
 │   └── 267 - Special Bonus Lecture.md
+├── __input.html
 ├── _bulk_rename_to_remove_spaces.py
 ├── _create_complete_folder_and_file_structure.py
 ├── _extract_data_from_input_html.py
 ├── _stats_to_get_total_filecount_and_total_filesize.py
-├── _tree_for_the_entire_folder.py
-├── folder_tree.txt
-├── input.html
-└── output.txt
+└── _tree_for_the_entire_folder.py
