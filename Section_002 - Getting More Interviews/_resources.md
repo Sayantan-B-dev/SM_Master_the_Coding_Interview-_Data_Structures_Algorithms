@@ -5,3 +5,6 @@
 11.  https://www.linkedin.com/in/andreineagoie/
 11.  https://www.linkedin.com/groups/12121940/
 11.  https://github.com/zero-to-mastery
+14.  https://www.linkedin.com/jobs/
+19.  https://docs.github.com/en/pages/quickstart
+19.  https://claude.com/download
