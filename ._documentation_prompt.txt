@@ -22,7 +22,7 @@ Follow these strict guidelines:
 - Avoid unnecessary complexity or overly advanced language.
 - Maintain a clean, structured format using headings, subheadings, and bullet points where appropriate.
 
-4. Diagrams
+4. Diagrams(no need for this if theres nothing code related)
 - Use Mermaid diagrams ONLY when necessary.
 - Keep Mermaid diagrams very simple to avoid rendering issues on platforms like GitHub.
 - Avoid complex diagrams entirely.
@@ -30,7 +30,7 @@ Follow these strict guidelines:
   - Use ASCII diagrams instead, OR
   - Provide a reference link instead of drawing it.
 
-5. Code Examples
+5. Code Examples(no need for this if theres nothing code related)
 - Use ONLY Python for code examples.
 - Include comments for critical or potentially confusing parts.
 - Keep code simple, readable, and relevant to the topic.
@@ -45,7 +45,6 @@ Follow these strict guidelines:
   - Long-term reference
   - Quick concept understanding
 
-Maintain clarity, correctness, and structure at all times.
+Maintain clarity, correctness, and structure at all times. 
 
 {{}}
-
