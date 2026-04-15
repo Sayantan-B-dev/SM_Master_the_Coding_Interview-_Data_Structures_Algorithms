@@ -1,0 +1,12 @@
+82. http://www.miraclesalad.com/webtools/md5.php
+83. https://www.cs.usfca.edu/~galles/visualization/OpenHash.html
+83. https://en.wikipedia.org/wiki/Hash_table
+84. https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(associative_array)
+84. https://repl.it/@aneagoie/DataStructures-Hash-Tables
+84. https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo
+85. https://repl.it/@aneagoie/DataStructures-Hash-Table-exercise
+86. https://repl.it/@aneagoie/DataStructures-Hash-Table-Implementation-1
+87. https://repl.it/@aneagoie/DataStructures-Hash-Table-Implementation
+90. https://repl.it/@aneagoie/firstRecurringCharacter-exercise
+91. https://repl.it/@aneagoie/firstRecurringCharacter
+93. https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview
