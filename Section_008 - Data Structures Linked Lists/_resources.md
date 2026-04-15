@@ -1,0 +1,15 @@
+97. https://visualgo.net/en/list
+100. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-1
+100. https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo
+101. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-2
+102. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-2-
+104. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-3
+104. https://visualgo.net/en/list
+106. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-4-
+107. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-4
+109. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-4
+110. https://repl.it/@aneagoie/Data-Structure-Doubly-Linked-List-Implementation
+112. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation-5
+113. https://repl.it/@aneagoie/Data-Structures-Linked-Lists-Implementation
+114. https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview
+114. https://www.youtube.com/watch?v=DyG9S9nAlUM
