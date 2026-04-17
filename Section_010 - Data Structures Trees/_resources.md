@@ -1,0 +1,14 @@
+130. https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview
+133. https://visualgo.net/bn/bst
+134. http://bigocheatsheet.com/
+136. https://repl.it/@aneagoie/Data-Structures-Trees-exercise
+136. https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo
+137. https://repl.it/@aneagoie/Data-Structures-Trees-exercise-2
+138. https://repl.it/@aneagoie/Data-Structures-Trees-exercise-3
+139. https://repl.it/@aneagoie/Data-Structures-Trees-exercise-3
+139. https://visualgo.net/en/bst
+140. https://repl.it/@aneagoie/Data-Structures-Trees
+143. https://visualgo.net/en/heap
+144. https://stackoverflow.com/questions/1699057/why-are-two-different-concepts-both-called-heap
+145. https://www.geeksforgeeks.org/implementation-priority-queue-javascript/
+147. https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview
