@@ -1,3 +1,5 @@
+![](https://udemy-certificate.s3.amazonaws.com/image/UC-bfeb62ba-d794-4786-98b4-7eb78180aed8.jpg?v=1776612312000)
+
 # root files
 - > `.gitattributes`, its the git attributes file, used for line endings.
 - > `.gitignore`, its the git ignore file, used for ignore files.
