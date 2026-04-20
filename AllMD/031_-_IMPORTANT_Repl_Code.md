@@ -1,0 +1,1 @@
+Since Replit has shifted to a paid AI-heavy model, the recommended free alternative is **Glot.io**. Use the course GitHub repository for all code and exercises, as some Udemy-era links may no longer work. For issues, use the #helpme channel on Discord.

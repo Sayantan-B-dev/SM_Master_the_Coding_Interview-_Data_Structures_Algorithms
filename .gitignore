@@ -13,7 +13,7 @@ __pycache__/
 # Ignore all Jupyter notebooks
 *.ipynb
 
-*.py
+# *.py
 
 *.pdf
 *.html
